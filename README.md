@@ -50,6 +50,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](Heroku_Deployment.md)
 
+[![Deploy](https://www.heroku.com/deploy)](Heroku_Deployment.md)
 
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 2 : ᴠɪᴀ ᴇᴅɪᴛɪɴɢ ʀᴇᴘᴏ ɴᴀᴍᴇ ᴀɴᴅ ʟɪɴᴋ
